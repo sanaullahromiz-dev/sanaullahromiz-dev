@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/sanaullahromiz-dev">
-    <img src="https://raw.github.com/sanaullahromiz-dev/sanaullahromiz-dev/blob/main/sanaullah1.png.jpeg" alt="Sanaullah Ramiz - Programmer Banner">
+    <img src="https://github.com/sanaullahromiz-dev/sanaullahromiz-dev/blob/main/sanaullah1.png.jpeg" alt="Sanaullah Ramiz - Programmer Banner">
   </a>
 </p>
 
@@ -77,23 +77,22 @@ I'm a passionate developer focused on building robust and responsive web solutio
 ---
 
 ## 📈 My GitHub Stats
-<br> 
 <p align="center">   <a href="https://github.com/sanaullahromiz-dev">
-    <img src="https://github-readme-stats.vercel.app/api?username=sanaullahromiz-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Sanaullah Ramiz GitHub Stats" />
+    <br> <img src="https://github-readme-stats.vercel.app/api?username=sanaullahromiz-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Sanaullah Ramiz GitHub Stats" />
+  </a>
+  <a href="https://github.com/sanaullahromiz-dev">
+ <br>    <img src="https://github-readme-trophies.vercel.app/?username=sanaullahromiz-dev&theme=dark" alt="Sanaullah Ramiz GitHub Trophies" />
   </a> <br> 
   <a href="https://github.com/sanaullahromiz-dev">
-    <img src="https://github-readme-trophies.vercel.app/?username=sanaullahromiz-dev&theme=dark" alt="Sanaullah Ramiz GitHub Trophies" />
-  </a> <br> 
-  <a href="https://github.com/sanaullahromiz-dev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanaullahromiz-dev&layout=compact&theme=dark" alt="Top Languages" />
+  <br>   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanaullahromiz-dev&layout=compact&theme=dark" alt="Top Languages" />
 <br> 
   <a href="https://github.com/sanaullahromiz-dev">
-    <img src="https://streak-stats.demolab.com/?user=sanaullahromiz-dev&theme=dark" alt="GitHub Streak" />
+  <br>   <img src="https://streak-stats.demolab.com/?user=sanaullahromiz-dev&theme=dark" alt="GitHub Streak" />
   </a> 
 </p>
 
 ---
 
 <p align="center">
-  Thanks for visiting! Let's build the web, optimize for success.
+<h2>   Thanks for visiting! Let's build the web, optimize for success.
 </p>
