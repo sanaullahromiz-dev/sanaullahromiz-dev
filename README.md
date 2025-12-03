@@ -66,10 +66,10 @@ I'm a passionate developer focused on building robust and responsive web solutio
   <a href="https://twitter.com/sanaullahramiz1" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://www.youtube.com/kahafcomputer" target="_blank">
+  <a href="https://www.youtube.com/@KahafComputer" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-  <a href="https://nqowmi.com" target="_blank">
+  <a href="https://fanciful-heliotrope-111dac.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=react&logoColor=white" alt="Website">
   </a>
 </p>
